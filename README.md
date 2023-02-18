@@ -12,7 +12,7 @@
 I am a final-year undergraduate with a passion for computer science and am willing to give my best for the work I do. I am particularly interested in working on complex problems that require logical and analytical thinking, and I am experienced in working with technologies such as blockchain, TypeScript, and Solidity. I enjoy designing and developing mobile and web-based applications and am always looking for new and exciting challenges in the field of computer science. <br/><br/>
 
 
-<img width="490" height="270" src="https://media.giphy.com/media/l2JHVUriDGEtWOx0c/giphy.gif" class="center">
+<img width="490" height="270" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" class="center">
 
   
 
