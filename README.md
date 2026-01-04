@@ -1,18 +1,52 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello!, I am <a href="https://github.com/Hithru">Hithru</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+<h1>👋 Hello, I’m <a href="https://github.com/Hithru">Hithru</a></h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Hithru/)](https://github.com/Hithru/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hithru-de-alwis/)](https://www.linkedin.com/in/hithru-de-alwis/)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=[[https://www.hackerrank.com/Defcon27](https://www.hackerrank.com/Hithru_De_Alwis)](https://www.hackerrank.com/Hithru_De_Alwis))]([https://www.hackerrank.com/Defcon27](https://www.hackerrank.com/Hithru_De_Alwis))
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=[[[[https://stackoverflow.com/users/11534375/hemanth-kollipara](https://stackoverflow.com/users/18107147/hithru))](https://stackoverflow.com/users/18107147/hithru)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/Hithru) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hithru-de-alwis/)
+[![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18107147/hithru)
 
+---
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I am a final-year undergraduate with a passion for computer science and am willing to give my best for the work I do. I am particularly interested in working on complex problems that require logical and analytical thinking, and I am experienced in working with technologies such as blockchain, TypeScript, and Solidity. I enjoy designing and developing mobile and web-based applications and am always looking for new and exciting challenges in the field of computer science. <br/><br/>
+### 🧠 About Me
 
+I’m a **Backend Software Engineer** focused on building **reliable, scalable, and secure distributed systems**.
 
-<img width="490" height="270" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" class="center">
+I currently work on large-scale production platforms used by government and enterprise clients, where I design and operate:
+- Microservice-based architectures  
+- Event-driven systems  
+- High-throughput APIs  
+- Asynchronous workflows  
+- Cloud-native infrastructure on AWS  
 
-  
+I care deeply about:
+- System correctness  
+- Long-term maintainability  
+- Clean architecture  
+- Observability & operational stability  
+
+My work typically involves taking ownership of backend features **from design to production**, ensuring they perform reliably under real-world load.
+
+---
+
+### ⚙️ Core Tech Stack
+
+**Languages:** Java, TypeScript, Python, Go, Solidity, SQL  
+**Backend:** Spring Boot, REST, Microservices, Event-Driven Systems  
+**Cloud & DevOps:** AWS (SQS, S3, Lambda), Docker, Terraform, CI/CD  
+**Databases:** MySQL, PostgreSQL, Redis  
+**Testing:** JUnit, Mockito  
+
+---
+
+### 🚀 What I’m Interested In
+
+- Distributed systems  
+- FinTech / Payments  
+- High-scale backend platforms  
+- Cloud-native architectures  
+- Building systems that must *not fail*
+
+---
+
+> “I enjoy building systems that stay correct under pressure.”
 
